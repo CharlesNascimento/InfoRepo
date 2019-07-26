@@ -1,4 +1,4 @@
-### Bubbles! third-party credits
+# Bubbles! third-party credits
 
  - [Background elements](https://www.freepik.com/free-vector/coloured-diving-background_879085.htm) made by **freepik** from www.freepik.com
  - [Crown icon](https://www.flaticon.com/free-icon/crown_862724) made by **Good Ware** from www.flaticon.com
